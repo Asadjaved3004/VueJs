@@ -1,7 +1,7 @@
 <template>
 <div id="app">
-  <img alt="Vue logo" src="./assets/logo.png">
-  <HomeTest data='Asad javed is here' msg=" Hy How are you"/>
+  <!-- <img alt="Vue logo" src="./assets/logo.png"> -->
+  <HomeTest />
 </div>
 </template>
 
