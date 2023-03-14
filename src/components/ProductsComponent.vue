@@ -2,7 +2,7 @@
     <div>
 
  
-  <h1>Test Component</h1>
+  <h1>Products Component</h1>
   
     </div>
  </template>
@@ -11,7 +11,7 @@
  
 
  export default {
-     name: 'TestComponent',
+     name: 'ProductsComponent',
         props: {
          data: String,
          msg: String,
@@ -30,6 +30,8 @@
      width: 300px;
      padding: 42px;
      margin: 20px;
-     
+     align-items: center;
+     display: flex;
+     justify-content: center;
  }
  </style>
